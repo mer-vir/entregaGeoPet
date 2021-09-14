@@ -14,10 +14,7 @@ nav {
 .nav-barr:hover {
   background: rosybrown;
 }
-nav {
-  background: rgb(249, 163, 66);
-  padding: 10px;
-}
+
 .centrado {
   margin: 20px;
   margin-left: 170px;
