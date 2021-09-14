@@ -1,0 +1,42 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+/*barra navegacion*/
+nav {
+  background: rgb(249, 163, 66);
+  color: rgb(44, 88, 8);
+  text-align: center;
+  padding: 5px 30px;
+  text-decoration: none;
+  font-size: 30px;
+}
+.nav-barr:hover {
+  background: rosybrown;
+}
+nav {
+  background: rgb(249, 163, 66);
+  padding: 10px;
+}
+.centrado {
+  margin: 20px;
+  margin-left: 170px;
+  margin-right: auto;
+}
+/*Intento de alinear parrafo */
+.padre {
+  display: table;
+  height: 220px;
+  margin: 0.3rem auto;
+  text-align: center;
+  width: 700px;
+}
+.padre p {
+  display: table-cell;
+  margin: 0;
+  padding: 0 0rem;
+  vertical-align: middle;
+}
+footer {
+  background: black;
+}
